@@ -1,15 +1,15 @@
 
 
-![](https://komarev.com/ghpvc/?username=remiljw)
+
 
 <!--### Hi there 👋 -->
 
 <!--
 **remiljw/remiljw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+![](https://komarev.com/ghpvc/?username=remiljw)
 Here are some ideas to get you started:
-
+![](https://hit.yhype.me/github/profile?user_id=39375446)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
